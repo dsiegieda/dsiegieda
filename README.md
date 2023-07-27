@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dsiegieda, PhD pending in agricultural sciences
+- 👋 Hi, I’m @dsiegieda, PhD in agricultural sciences
 
 - 🌱 I’m currently learning bioinformatical analyses of metataxonomic sequnecing of mycobiome and microbiome data in R
 
