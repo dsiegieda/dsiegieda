@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dsiegieda, PhD in agricultural sciences
 
-- 🌱 I’m currently learning bioinformatical analyses of metataxonomic sequnecing of mycobiome and microbiome data in R
+- 🌱 I’m leveraging bioinformatical analyses of metataxonomic sequnecing of mycobiome and microbiome data
 
 <!---
 dsiegieda/dsiegieda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
